@@ -153,7 +153,7 @@ export const About = () => {
                 transition: { duration: 0.5, ease: [0.6, 0.5, 0.5, 0.9] },
               },
             }}
-            src='/assets/samihindi-portrait.jpg'
+            src='https://cdn.discordapp.com/attachments/843903035239694356/1084171800092622848/ME1.jpg'
             alt='Portrait of Sami Hindi'
             height={400}
             width={400}

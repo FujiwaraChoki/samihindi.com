@@ -1,0 +1,12 @@
+node_modules
+.env*
+
+.cache
+.vercel
+.output
+
+public/build
+api/_build
+/app/tailwind.css
+
+.DS_Store

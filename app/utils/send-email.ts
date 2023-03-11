@@ -11,8 +11,8 @@ export const sendEmail = async (data: {
   const { name, email, company, message } = data
 
   const emailToFrom = {
-    to: 'sami@samihindi.com.com',
-    from: 'sami@samihindi.com.com',
+    to: 'contact@samihindi.com',
+    from: 'sami@samihindi.com',
   }
 
   const content = {

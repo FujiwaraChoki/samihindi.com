@@ -85,7 +85,6 @@ export const loader: LoaderFunction = async () => {
       const data = await fetch(`https://api.github.com/repos/${project.repo}`, {
         headers: {
           Accept: 'application/vnd.github.v3+json',
-          Authorization: `token ${process.env.GITHUB_TOKEN}`,
         },
       })
       const { stargazers_count: stars } = (await data.json()) as unknown as {

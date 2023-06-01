@@ -71,7 +71,7 @@ export const About = () => {
             />
             <AnimatedText
               as='p'
-              text='Full-stack app development has been my main focus for many years, but in the past months Ive been learning a lot about Cybersecurity, which I have developed a great passion for.'
+              text='Full-stack app development has been my main focus for many years, but in the past months Ive been learning a lot about Cybersecurity and E-Commerce, which I have developed a great passion for.'
               className='mt-6 text-lg font-light leading-relaxed text-dark-400 dark:text-dark-200'
             />
             <AnimatedText

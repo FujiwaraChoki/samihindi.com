@@ -7,9 +7,9 @@ import { AnimatedLetters, AnimatedText } from '~/components/animated-text'
 import { SideProjectItem } from '~/components/side-project-item'
 
 export const meta: MetaFunction = () => ({
-  title: 'Side Projects - Oliver Cederborg',
+  title: 'Side Projects - Sami Hindi',
   description:
-    "I'm a 25 year old self-taught designer & frontend developer, focused on user experience, accessibility and modern web technologies.",
+    "I'm a 16 year old self-taught entrepreneur & full-stack developer, focused on user experience, accessibility and modern web technologies.",
 })
 
 export const headers: HeadersFunction = () => ({

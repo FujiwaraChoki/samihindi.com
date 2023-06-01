@@ -25,7 +25,7 @@ export const Hero = () => {
           <article className='lg:max-w-[60%]'>
             <AnimatedLetters
               as='h1'
-              text='I design and develop applications.'
+              text='I innovate and build entrepreneurial solutions.'
               className='text-5xl font-medium md:text-6xl lg:text-7xl'
               textVariants={{
                 hidden: { transition: { staggerChildren: 0.015 } },
@@ -43,7 +43,7 @@ export const Hero = () => {
             <AnimatedText
               as='p'
               className='mt-10 text-lg font-light leading-relaxed text-dark-400 dark:text-dark-200'
-              text="I'm a full-time frontend developer with a passion for great design and user
+              text="I'm a full-time Full-Stack developer with a passion for great design and user
 							experiences."
             />
           </article>

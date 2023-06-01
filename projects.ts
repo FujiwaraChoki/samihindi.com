@@ -45,4 +45,13 @@ export const projects: Project[] = [
 		code: 'https://github.com/FujiwaraChoki/CloudHaven',
 		demo: 'https://cloud-haven.vercel.app/'
 	},
+	{
+		id: 3,
+		name: 'Inkwell',
+		area: 'Desktop Applications',
+		imageAlt: 'Inkwell by Sami Hindi',
+		image: 'https://i.imgur.com/MdFm9jU.png',
+		demo: 'https://github.com/FujiwaraChoki/Inkwell/releases/tag/latest',
+		link: 'https://github.com/FujiwaraChoki/Inkwell',
+	}
 ]

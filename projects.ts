@@ -13,15 +13,6 @@ export type Project = {
 
 export const projects: Project[] = [
 	{
-		id: 0,
-		name: 'Miinto 2.0',
-		area: 'Development & Entrepreneurship',
-		image: 'https://cdn.dribbble.com/users/1858541/screenshots/17394216/media/113b3233d9f61e804377a2aa2488d613.png',
-		imageAlt: 'Miinto 2.0 by Oliver Cederborg',
-		link: '/project/miinto',
-		description: 'Miinto 2.0 is a redesign of the Miinto website. The goal was to create a more modern and user-friendly experience for the users. The project was done in collaboration with Oliver Cederborg.',
-	},
-	{
 		id: 1,
 		name: 'BytrixLang',
 		area: 'System Programming',

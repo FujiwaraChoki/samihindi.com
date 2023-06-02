@@ -30,7 +30,7 @@
     "react-dom": "^17.0.2",
     "react-icons": "^4.4.0",
     "react-use": "^17.4.0",
-    "remix": "^1.6.7",
+    "remix": "^1.14.0",
     "remix-validated-form": "^3.4.2",
     "use-scrollspy": "^1.2.0",
     "zod": "^3.17.10",

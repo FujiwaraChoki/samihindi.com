@@ -28,7 +28,7 @@ export const projects: Project[] = [
 		id: 2,
 		name: 'NexusAI',
 		area: 'Artificial Intelligence',
-		image: 'https://i.imgur.com/owTdYpR.png',
+		image: 'https://i.imgur.com/d9ULtCa.png',
 		imageAlt: 'NexusAI by Sami Hindi',
 		link: '/project/nexusai',
 		color: '#E3E3E3',

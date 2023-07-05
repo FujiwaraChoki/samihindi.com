@@ -33,10 +33,10 @@ export const Contact = ({ children }: ContactProps) => (
         >
           Do not hesitate to contact me through the form here or by direct email on{' '}
           <a
-            href='mailto:sami@samihindi.com.com'
+            href='mailto:sami@samihindi.com'
             className='underline decoration-dark-200 underline-offset-[6px] hover:decoration-dark-300 dark:decoration-dark-500 dark:hover:decoration-dark-400'
           >
-            sami@samihindi.com.com
+            sami@samihindi.com
           </a>{' '}
           regardless of the subject.
         </motion.p>

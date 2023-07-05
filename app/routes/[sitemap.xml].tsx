@@ -4,27 +4,27 @@ export const loader = () => {
   const content = `
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://olivercederborg.com/</loc>
+        <loc>https://samihindi.com/</loc>
         <lastmod>2022-07-14T23:13:19+00:00</lastmod>
         <priority>1.00</priority>
       </url>
       <url>
-        <loc>https://olivercederborg.com/side-projects</loc>
+        <loc>https://samihindi.com/side-projects</loc>
         <lastmod>2022-07-24T01:46:50+00:00</lastmod>
         <priority>0.80</priority>
       </url>
       <url>
-        <loc>https://olivercederborg.com/project/miinto</loc>
+        <loc>https://samihindi.com/project/miinto</loc>
         <lastmod>2022-07-14T23:13:19+00:00</lastmod>
         <priority>0.80</priority>
       </url>
       <url>
-        <loc>https://olivercederborg.com/project/tsks</loc>
+        <loc>https://samihindi.com/project/tsks</loc>
         <lastmod>2022-07-14T23:13:19+00:00</lastmod>
         <priority>0.80</priority>
       </url>
       <url>
-        <loc>https://olivercederborg.com/project/100-days-of-ui</loc>
+        <loc>https://samihindi.com/project/100-days-of-ui</loc>
         <lastmod>2022-07-14T23:13:19+00:00</lastmod>
         <priority>0.80</priority>
       </url>

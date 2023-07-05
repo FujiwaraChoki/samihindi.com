@@ -68,6 +68,8 @@ function Document({ children, title }: { children: React.ReactNode; title?: stri
         <Meta />
         <Links />
         <NonFlashOfWrongThemeEls ssrTheme={Boolean(loadedTheme)} />
+        <script src="https://cdn.botpress.cloud/webchat/v0/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/7c0a9741-8f8b-43da-8f36-7f678466843c/webchat/config.js" defer></script>
       </head>
       <body className='bg-dark-50 text-dark-600 transition-colors duration-300 ease-in-out dark:bg-dark-850 dark:text-dark-50'>
         {children}

@@ -120,8 +120,6 @@ export default function Index() {
 
   return (
     <main>
-      <script src="https://cdn.botpress.cloud/webchat/v0/inject.js"></script>
-<script src="https://mediafiles.botpress.cloud/7c0a9741-8f8b-43da-8f36-7f678466843c/webchat/config.js" defer></script>
       <Hero />
       <Projects />
       <About />

@@ -16,7 +16,7 @@ export const projects: Project[] = [
 		id: 1,
 		name: 'BytrixLang',
 		area: 'System Programming',
-		image: 'https://media.discordapp.net/attachments/843903035239694356/1084157364204220436/Bytrix.png',
+		image: 'https://i.imgur.com/2kPpFJR.jpg',
 		imageAlt: 'Bytrix programming language by Sami Hindi',
 		link: '/project/bytrixlang',
 		color: '#1D1D26',

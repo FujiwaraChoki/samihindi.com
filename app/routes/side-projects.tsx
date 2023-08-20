@@ -143,7 +143,7 @@ export default function Sideprojects() {
             key='text'
             as='p'
             className='mt-6 text-lg font-light leading-relaxed text-dark-400 dark:text-dark-200 md:w-3/5'
-            text='This is where I keep my side projects. You will find stuff like web and mobile apps, automation projects and Neovim plugins.'
+            text='This is where I keep my side projects. You will find stuff like web and desktop apps, automation projects and Chrome Extensions.'
           />
         </AnimatePresence>
       </motion.article>

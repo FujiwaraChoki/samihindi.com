@@ -41,7 +41,7 @@ export const loader: LoaderFunction = async () => {
       image: 'https://i.imgur.com/EKFd0bd.png',
       imageAlt: 'Yt2Mp4 by Sami Hindi',
       repo: 'fujiwarachoki/yt2mp4',
-      url: 'https://github.com/FujiwaraChoki/yt2mp4',
+      url: 'https://yt2mp4.vercel.app',
       color: '#4D4E52',
     },
     {

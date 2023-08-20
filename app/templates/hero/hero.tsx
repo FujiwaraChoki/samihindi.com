@@ -43,7 +43,7 @@ export const Hero = () => {
             <AnimatedText
               as='p'
               className='mt-10 text-lg font-light leading-relaxed text-dark-400 dark:text-dark-200'
-              text="I'm a full-time Full-Stack developer with an iron entrepreneurial mindset."
+              text="I'm a full-time Student at an IT-School with an iron entrepreneurial mindset."
             />
           </article>
         </AnimatePresence>

@@ -29,7 +29,7 @@ export const projects: Project[] = [
 		name: 'Omni-GPT',
 		area: 'Artificial Intelligence',
 		link: '/project/omni-gpt',
-		image: 'https://github.com/FujiwaraChoki/Omni-GPT/raw/main/assets/banner.png',
+		image: 'https://i.imgur.com/qigfpdW.png',
 		imageAlt: 'Omni-GPT by Sami Hindi',
 		color: '#E3E3E3',
 		description: 'Omni-GPT can take input from the user and generate a static HTML-Website, or even ones using a certain framework, like Next.js or Vue.js.',

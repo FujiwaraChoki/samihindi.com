@@ -55,7 +55,6 @@ export const ProjectItem = memo(({ project, ...props }: ProjectItemProps) => {
           }}
           whileHover={{ scale: 1.05, transition: { duration: 0.5, ease: 'circOut' } }}
           whileTap={{ scale: 0.95 }}
-          style={{ backgroundColor: color }}
         >
           <motion.img
             variants={{

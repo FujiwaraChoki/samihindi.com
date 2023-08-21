@@ -17,7 +17,7 @@ export const projects: Project[] = [
 		name: 'BytrixLang',
 		area: 'System Programming',
 		link: '/project/bytrixlang',
-		image: 'https://i.imgur.com/kjGv20w.png',
+		image: 'https://i.imgur.com/81qIpOE.png',
 		imageAlt: 'Bytrix programming language by Sami Hindi',
 		color: '#1D1D26',
 		description: 'Bytrix is a programming language that is designed to be easy to learn and use. It is a compiled language that is compiled to x86-64 assembly. The language is designed to be used for system programming, but it can also be used for other purposes.',

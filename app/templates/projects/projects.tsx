@@ -31,7 +31,7 @@ export const Projects = () => {
         />
 
         <MotionLinkButton
-          to='/projects'
+          to='/projects/'
           motionProps={{
             variants: {
               hidden: { opacity: 0, y: 50 },

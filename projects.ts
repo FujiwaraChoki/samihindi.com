@@ -38,14 +38,14 @@ export const projects: Project[] = [
 	},
 	{
 		id: 3,
-		name: 'CogniLabs',
-		area: 'Desktop Application',
-		link: '/project/cognilabs',
-		image: 'https://assets.whop.com/cdn-cgi/image/width=640/https://assets.whop.com/images/images/48702.original.png?1691940379',
-		imageAlt: 'CogniLabs by Sami Hindi',
+		name: 'ForceUrSelf',
+		area: 'Hacking Tool',
+		link: '/project/forceurself',
+		image: 'https://i.imgur.com/czK7mM2.png',
+		imageAlt: 'ForceUrSelf by Sami Hindi',
 		color: '#FCBA03',
-		description: 'CogniLabs is a desktop application that is designed to help students learn and study. It is designed to be easy to use and intuitive to the user.',
-		demo: 'https://whop.com/sealsage/',
-		code: 'https://github.com/FujiwaraChoki/Cogni-Labs',
+		description: 'ForceUrSelf is a Bruteforcing Tool written in Python. It features CLI-Arguments, Tor Proxies and much more!',
+		demo: 'https://github.com/FujiwaraChoki/ForceUrSelf/#examples',
+		code: 'https://github.com/FujiwaraChoki/ForceUrSelf',
 	}
 ]

@@ -98,7 +98,7 @@ export const action: ActionFunction = async ({ request }) => {
 export const meta: MetaFunction = () => ({
   title: 'Sami Hindi - Full-Stack developer',
   description:
-    "I'm a 18 year old mostly self-taught full-stack developer from Switzerland. I'm currently working on a few projects and I'm always looking for new opportunities.",
+    "I'm a 17 year old mostly self-taught full-stack developer from Switzerland. I'm currently working on a few projects and I'm always looking for new opportunities.",
 })
 
 export default function Index() {

@@ -66,7 +66,7 @@ export const About = () => {
             />
             <AnimatedText
               as='p'
-              text="I'm a 18 year old mostly self-taught full-stack developer from Switzerland. I'm currently working on a few projects and I'm always looking for new opportunities."
+              text="I'm a 17 year old mostly self-taught full-stack developer from Switzerland. I'm currently working on a few projects and I'm always looking for new opportunities."
               className='mt-6 text-lg font-light leading-relaxed text-dark-400 dark:text-dark-200'
             />
             <AnimatedText
